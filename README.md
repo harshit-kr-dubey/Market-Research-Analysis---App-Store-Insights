@@ -29,6 +29,7 @@ An **ETL-based data analysis project** focused on mobile app market research. Th
 📄 market_research.db        # SQLite database
 📄 requirements.txt          # Python dependencies
 📄 README.md                 # Project overview
+📄 marketresearch.ipymb      # Implementation on colab
 ```
 
 ---
